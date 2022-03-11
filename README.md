@@ -1,7 +1,7 @@
 👋 Hi there, I’m Wissal Salhi a Tunisian Software Engineering Student <br>
 👀 I’m interested in everything related to IT <br>
 🌱 I’m currently learning Spring Boot <br>
-💞️ I’m looking to collaborate on projects related to <br>
+💞️ I’m looking to collaborate on projects with technologies like:<br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
